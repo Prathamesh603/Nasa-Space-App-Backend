@@ -41,7 +41,7 @@ ROC_PR_MAX_PTS = 200
 
 # Model Mapping: KEY -> Filename
 MODEL_MAP = {
-    "koi": MODELS_DIR / "model_koi.pkl",
+    "koi": MODELS_DIR / "model_KOI.pkl",
     "k2": MODELS_DIR / "model_k2.pkl",
     "tess": MODELS_DIR / "model_TESS.pkl",
 }
